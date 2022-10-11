@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishanthdmello
 - 👀 I’m annoyingly curious about many things around me so I eventually would like to understand and learn everything.
-- 🌱 I’m currently learning CSE at PES University in Bangalore, India.
+- 📚 I’m currently learning CSE at PES University in Bangalore, India.
 
 
 <!---
