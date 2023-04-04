@@ -6,6 +6,5 @@
   <img width = 25% src = "https://profile-counter.glitch.me/{nishanthdmello}/count.svg">
 </div>
 <div align="center">
-  <img src="dino2.gif">
   <img src="dino1.gif">
 </div>
