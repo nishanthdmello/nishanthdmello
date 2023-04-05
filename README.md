@@ -16,22 +16,22 @@
   <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishanthdmello&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=dark" alt="nishanthdmello">
+<img src="https://shorturl.at/eqrFJ" alt="nishanthdmello">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthdmello&hide_border=true&theme=dark" alt="nishanthdmello">
+<img src="https://shorturl.at/CDT48" alt="nishanthdmello">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthdmello&layout=compact&hide_border=true&theme=dark" alt="nishanthdmello">
+<img src="https://shorturl.at/byPV5" alt="nishanthdmello">
 
 </div>
   <br>
 <div align="center">
   
   <h3><b>Visitors Count</b></h3>
-  <img src = "https://profile-counter.glitch.me/{nishanthdmello}/count.svg">
+  <img src = "https://shorturl.at/hmSWX">
   
 </div>
 <div align="center">
