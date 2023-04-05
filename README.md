@@ -31,7 +31,7 @@
 <div align="center">
   
   <h3><b>Visitors Count</b></h3>
-  <img width = 25% src = "https://profile-counter.glitch.me/{nishanthdmello}/count.svg">
+  <img src = "https://profile-counter.glitch.me/{nishanthdmello}/count.svg">
   
 </div>
 <div align="center">
