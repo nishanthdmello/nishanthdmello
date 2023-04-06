@@ -16,7 +16,7 @@
   <br>
 <br>
 
-<img src="https://shorturl.at/eqrFJ" alt="nishanthdmello">
+<img src="https://github-readme-stats.vercel.app/api?username=nishanthdmello&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=highcontrast" alt="nishanthdmello">
 
 <br><br>
 
