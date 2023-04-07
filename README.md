@@ -11,20 +11,9 @@
   <img src = "https://skillicons.dev/icons?i=c,python,cpp,java,matlab,html,css,javascript,react,git,github,gitlab,vscode,linux,arduino">
 
 <br>
-  <br>
-  <br>
-  <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishanthdmello&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=highcontrast&bg_color=00000000&title_color=FFA500">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nishanthdmello&theme=transparent&hide_border=true&mode=weekly&fire=A020F0&currStreakNum=ffffff&sideLabels=ffa500&dates=ffffff&ring=ffa500&stroke=ffffff&sideNums=ffffff&currStreakLabel=ffa500">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthdmello&layout=compact&hide_border=true&theme=highcontrast&bg_color=00000000&title_color=FFA500">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthdmello&layout=compact&hide_border=true&theme=transparent&title_color=ffa500">
 
 </div>
   <br>
