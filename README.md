@@ -4,7 +4,7 @@
 <br>
 <h2>Languages and Tools</h2>
 <br>
-<img src = "https://skillicons.dev/icons?i=c,python,cpp,java,matlab,md,html,css,javascript,jquery,bootstrap,react,nodejs,mongodb,git,github,netlify,vercel,vscode,linux,arduino,bash">
+<img src = "https://skillicons.dev/icons?i=c,python,cpp,java,matlab,md,html,css,javascript,jquery,bootstrap,react,nodejs,mongodb,r,git,github,gitlab,netlify,vercel,vscode,linux,arduino,bash">
 <br>
 <br>
 <h2>
